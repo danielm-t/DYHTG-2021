@@ -27,4 +27,4 @@ tile_data = PoolIntArray( 0, 0, 0, 15, 0, 0, 65536, 0, 0, 65541, 0, 0, 65542, 0,
 [node name="CharacterShort" parent="." instance=ExtResource( 2 )]
 position = Vector2( 270, 107 )
 speed = Vector2( 800, 1000 )
-gravity = 2500.0
+gravity = 2000.0
